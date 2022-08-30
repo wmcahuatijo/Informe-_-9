@@ -14,6 +14,10 @@
 
 # MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/105691698/187533321-57781d49-b1d1-45ff-a3b3-f0292054912f.png)
+
+
+
 # Explicación y resolución de ejercicios
 
 SECCIÓN 17–1 Impedancia de circuitos RLC en serie
