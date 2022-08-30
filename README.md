@@ -42,6 +42,88 @@ SECCIÓN 17–2 Análisis de circuitos RLC en serie
 
 ![image](https://user-images.githubusercontent.com/105691698/187529429-fc0ef27b-ff7f-4668-b874-61c98d38e448.png)
 
+SECCIÓN 17–3 Resonancia en serie
+
+10 ) En la figura 17-61, determine XL, XC, Z e I a la frecuencia resonante
+
+![image](https://user-images.githubusercontent.com/105691698/187529644-a2b652f6-d92d-4265-a09c-5c3ceba3073e.png)
+
+12) Para el circuito RLC de la figura 17-62, determine la frecuencia resonante.
+
+![image](https://user-images.githubusercontent.com/105691698/187529722-e644d1c2-eea9-4edc-a0b3-51f97ceb2652.png)
+
+![image](https://user-images.githubusercontent.com/105691698/187529745-51f14122-2a98-4e38-bfb4-8db853dd1f0c.png)
+
+PARTE 2: CIRCUITOS EN PARALELO
+
+SECCIÓN 17–4 Impedancia de circuitos RLC en paralelo
+
+16) Exprese en forma polar la impedancia del circuito de la figura 17-63
+
+![image](https://user-images.githubusercontent.com/105691698/187529816-65b4bc98-18f4-4098-a116-b6819304bff4.png)
+
+
+![image](https://user-images.githubusercontent.com/105691698/187529839-b2ba7f00-9707-4501-b8d5-b0577227887d.png)
+
+
+![image](https://user-images.githubusercontent.com/105691698/187529888-379ad9d5-13f4-4f47-81b1-952e42fdc46f.png)
+
+SECCIÓN 17–5 Análisis de circuitos RLC en paralelo
+
+20) Determine la impedancia total del circuito de la figura 17-63 a 50 kHz.
+
+![image](https://user-images.githubusercontent.com/105691698/187529981-29f160fd-2dd8-4964-b5ed-b26952f7ed3e.png)
+
+![image](https://user-images.githubusercontent.com/105691698/187530004-c681bb71-9481-4459-8aa2-cac241e4e7a9.png)
+
+PARTE 3: CIRCUITOS EN SERIE-PARALELO
+
+SECCIÓN 17–7 ANÁLISIS DE CIRCUITOS RLC EN SERIE-PARALELO
+
+26) Encuentre la impedancia total para cada circuito de la figura 17-65
+
+![image](https://user-images.githubusercontent.com/105691698/187530063-a483e810-329c-47c1-9249-21b98d27dff5.png)
+
+![image](https://user-images.githubusercontent.com/105691698/187530094-e38f1c14-727a-456c-84f4-243677094c18.png)
+
+![image](https://user-images.githubusercontent.com/105691698/187530130-8cb22bb0-fee5-4d0a-8924-5eea53c1c884.png)
+
+28) Determine el voltaje entre las terminales de cada elemento mostrado en la figura 17-66, y expréselo en forma polar.
+
+![image](https://user-images.githubusercontent.com/105691698/187530191-4122e7e1-5549-41da-8f58-38fe74031f95.png)
+
+![image](https://user-images.githubusercontent.com/105691698/187530229-5cbbacd0-16f3-4b0f-adf7-8a8037157476.png)
+
+![image](https://user-images.githubusercontent.com/105691698/187530272-edbae46b-ad82-476a-a7d8-7251bd98aac6.png)
+
+32) Determine la resistencia y la reactancia totales en la figura 17-68
+
+![image](https://user-images.githubusercontent.com/105691698/187530347-47610110-193c-47c4-bad7-42c7ecebee12.png)
+
+![image](https://user-images.githubusercontent.com/105691698/187530383-5de5d0a6-ab1e-4003-8aaf-0b50b7c39eac.png)
+
+36) ¿Cuántas frecuencias resonantes hay en el circuito de la figura 17-70 ¿Por qué?
+
+![image](https://user-images.githubusercontent.com/105691698/187530438-a38045c8-69ff-46e3-b700-a8e363d0df76.png)
+
+Existen 2 frecuencias resonantes
+
+PARTE 4: TEMAS ESPECIALES
+
+SECCIÓN 17–8 Ancho de banda de circuitos resonantes
+
+40) Si la frecuencia crítica baja es de 2400 Hz y la frecuencia crítica alta es de 2800 Hz, ¿cuál es el ancho de banda? ¿Cuál es la frecuencia resonante?
+
+![image](https://user-images.githubusercontent.com/105691698/187530545-3e22155b-2803-48bb-ae68-eeb724e42e4f.png)
+
+
+42) En un circuito tanque, ¿qué valores de L y C deberán utilizarse para obtener una frecuencia resonante de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del circuito es de 10 Ω.
+
+![image](https://user-images.githubusercontent.com/105691698/187530626-11953889-edc5-459b-8cef-4dde13472237.png)
+
+
+
+
 Video
 
 https://www.youtube.com/watch?v=iheUPW5DIY
