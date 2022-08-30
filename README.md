@@ -40,6 +40,7 @@ SECCIÓN 17–2 Análisis de circuitos RLC en serie
 
 ![image](https://user-images.githubusercontent.com/105691698/187500238-a5b9b3b5-d3a8-4ca7-8062-3e7b304e0d9f.png)
 
+![image](https://user-images.githubusercontent.com/105691698/187529429-fc0ef27b-ff7f-4668-b874-61c98d38e448.png)
 
 Video
 
