@@ -14,6 +14,32 @@
 
 # MARCO TEORICO
 
+# Explicación y resolución de ejercicios
+
+SECCIÓN 17–1 Impedancia de circuitos RLC en serie
+
+2) Determine la impedancia en la figura 17-59 y exprésela en forma polar
+
+![image](https://user-images.githubusercontent.com/105691698/187499560-fcfc88ca-5651-4c42-8b8b-10697e3a32d8.png)
+
+![image](https://user-images.githubusercontent.com/105691698/187499643-26e878d4-0eb8-4a16-8013-d4de3b806089.png)
+
+![image](https://user-images.githubusercontent.com/105691698/187499708-e23c25b9-56c8-4475-add5-b619eabf47ce.png)
+
+4) Para el circuito de la figura 17-59, determine la reactancia neta que hará que la magnitud de la impedancia sea igual a 100 Ω.
+
+![image](https://user-images.githubusercontent.com/105691698/187499904-4eff5fcc-92ed-4264-8358-f510ce914dca.png)
+
+![image](https://user-images.githubusercontent.com/105691698/187499956-ab613ec2-be4c-445d-938c-40e65490b526.png)
+
+SECCIÓN 17–2 Análisis de circuitos RLC en serie
+
+6) Trace el diagrama fasorial de voltaje para el circuito de la figura 17-59
+
+![image](https://user-images.githubusercontent.com/105691698/187500174-912a6d8b-26f9-4d89-8d94-d84baf2d38da.png)
+
+![image](https://user-images.githubusercontent.com/105691698/187500238-a5b9b3b5-d3a8-4ca7-8062-3e7b304e0d9f.png)
+
 
 Video
 
