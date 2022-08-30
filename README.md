@@ -6,7 +6,7 @@
 
 1.2 Objetivos específicos
 
-► Analizar conceptos básicos de los temas inductores, así como, transformadores, correspondientes al capítulo 15 y 16 del libro de Floyd, que nos adentren al mundo de los circuitos eléctricos.
+► Analizar conceptos básicos de los temas inductores, así como, transformadores, correspondientes al capítulo 17 y 18 del libro de Floyd, que nos adentren al mundo de los circuitos eléctricos.
 
 ► Realizar un informe que contenga solo información importante, para ayudar al lector a comprender conceptos de los circuitos eléctricos
 
